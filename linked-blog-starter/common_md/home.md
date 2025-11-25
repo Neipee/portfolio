@@ -25,7 +25,7 @@ excerpt: Create your own template or use someone else's. Changing the template i
 ### Ease of Use
 
 Obsidian notes [work out of the box](works-out-of-the-box-with-markdown-files.md) and after the [setup](publish-your-obsidian-notes-with-linked-blog-starter.md), publishing notes is done in 2 steps:
-1. Write a note in `/publish` folder within Obsidian
+1. Write a note in `/publish` folder within Obsidian.
 2. Run the backup command [using the Obsidian Git plugin](connect-obsidian-vault-with-github.md)
 
 ### Customization
