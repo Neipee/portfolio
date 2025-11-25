@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: Neipee/portfolio/linked-blog-starter
+  BLOG_REPO: Neipee/portfolio
   PUBLISH_DIR: publish
 on:
   workflow_dispatch:
